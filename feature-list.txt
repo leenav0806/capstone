@@ -1,0 +1,12 @@
+https://knowledge.udacity.com/questions/698714
+
+
+-TODO: Use SNS to Notify User when a Todo has been created/completed
+    
+
+
+
+-TODO: Add  lambda that gets the amount of active TODOs for a user and updated the web app to display that number to the user (it updates whenever the user checks or unchecks a TODO)
+
+
+-TODO: Readme Update
